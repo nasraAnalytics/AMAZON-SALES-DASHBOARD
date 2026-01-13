@@ -6,10 +6,11 @@ A stable internet connection.
 Access to the shared OneDrive link provided in the README.md
 
 File Requirements;
-Download and Use the dataset provided(Sales_data.xlsx)
+To use the dataset tap on the dataset then click "VIEW RAW" then Download it to view the dashboard seamlessly.
 
 #NOTE:
 No programming language,Installation,external libraries,additional setup is needed .
 The dashboard is fully functional upon opening the Excel or Excel Online.
+
 
 
