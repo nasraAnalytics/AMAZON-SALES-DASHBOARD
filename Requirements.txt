@@ -1,0 +1,15 @@
+# Software Requirements;
+Microsoft Excel (2016 or later) Or Microsoft Excel Online (via OneDrive)
+
+Online Access (For The Live Dashboard);
+A stable internet connection.
+Access to the shared OneDrive link provided in the README.md
+
+File Requirements;
+Download and Use the dataset provided(Sales_data.xlsx)
+
+#NOTE:
+No programming language,Installation,external libraries,additional setup is needed .
+The dashboard is fully functional upon opening the Excel or Excel Online.
+
+
