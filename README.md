@@ -8,7 +8,7 @@ It converts raw transactional data into actionable business intelligence, enabli
 📅 Time Period Covered: 2013–2014
 ⚠️ Note: No data is available for 2015, as reflected in the timeline visualization.
 
-#Live Excel Dashboard👉🏽
+#Live Excel Dashboard👇🏽
 https://1drv.ms/x/c/797e3772d5eeb6b7/IQDMD3NVqUBPRYbX50334RXMAeDu_6gN4VEv_sv00MXZR1I?e=zbqkY8
 
 #Purpose and Objective;
